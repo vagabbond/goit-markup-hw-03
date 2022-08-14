@@ -32,6 +32,25 @@ body {
   clip-path: inset(50%);
   margin: -1px;
 }
+.conteiner {
+  width: 1200px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+
+  border: tomato 2px solid;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+  margin: 0;
+}
 
 /*Header */
 .header {
@@ -48,7 +67,7 @@ body {
   color: var(--black-color);
 }
 .nav,
-.contact {
+.nav-contact {
   line-height: 1.14;
 }
 .link {
