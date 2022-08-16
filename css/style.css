@@ -347,7 +347,7 @@ ul {
 }
 .gallery-list .item {
   width: 370px;
-  border: 1px solid #eeeeee;
+  border-bottom: 1px solid #eeeeee;
   margin-right: 30px;
   margin-bottom: 30px;
 }
